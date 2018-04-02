@@ -38,3 +38,4 @@ The Jobs To Be Done framework.
 
 @fa[twitter gp-contact](@sstatik)
 @fa[github gp-contact](statik)
+@fa[email gp-contact](elliot@kindlyops.com)
