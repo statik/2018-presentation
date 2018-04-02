@@ -36,6 +36,6 @@ The Jobs To Be Done framework.
 
 <br>
 
-@sstatik[twitter contact](@sstatik)
+@sstatik[twitter gp-contact](@sstatik)
 
 @fa[github gp-contact](statik)
